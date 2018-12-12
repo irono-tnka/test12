@@ -8,3 +8,5 @@ main12
 sub12
 
 marg ok
+
+kyougou sub12_2
